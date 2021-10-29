@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Apps Developer
 - 🌱 I’m currently learning Flutter and React Native
 - 💞️ I’m looking to collaborate on Mobile Apps Dev Team
-- 📫 How to reach me , you can email @clashikik
+- 📫 How to reach me , you can dm me on insta @rizky_rahmansalam
 - 🎓 I'm a student at STMIK AMIK RIAU
 - 🙇‍♂️ Thank You !
 <!---
