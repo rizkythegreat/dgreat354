@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizkythegreat
-- 👀 I’m interested in Back End Developer
+- 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking forward to collaborate with Mobile Apps Dev Team
 - 📫 How to reach me? you can dm me on instagram @rizky_rahmansalam
